@@ -3,7 +3,7 @@
 <div align="center">
 </div>
 
-# Hashmi & Zerlin
+# Shakila & Yasiru
 .
 ## Run locally,
 
